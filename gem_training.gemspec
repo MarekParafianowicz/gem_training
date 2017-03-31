@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = GemTraining::VERSION
   s.authors     = ["marek parafianowicz"]
   s.email       = ["marek.parafianowicz@netguru.co"]
-  s.homepage    = "https://www.google.com"
+  s.homepage    = "https://github.com/MarekParafianowicz/gem_training"
   s.summary     = "Summary of GemTraining."
   s.description = "Description of GemTraining."
   s.license     = "MIT"
